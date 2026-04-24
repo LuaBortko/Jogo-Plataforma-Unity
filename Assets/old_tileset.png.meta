@@ -1,0 +1,7917 @@
+fileFormatVersion: 2
+guid: fc18f79824e6b6f4db213b3d7e8d37ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6188981883583260124
+    second: old_tileset_0
+  - first:
+      213: 3739044149032080851
+    second: old_tileset_1
+  - first:
+      213: 2913426151730630899
+    second: old_tileset_2
+  - first:
+      213: -5784882668285579151
+    second: old_tileset_3
+  - first:
+      213: 7368528876979965695
+    second: old_tileset_4
+  - first:
+      213: -4734941571748348038
+    second: old_tileset_5
+  - first:
+      213: -7306128353757866697
+    second: old_tileset_6
+  - first:
+      213: -2319567590091941514
+    second: old_tileset_7
+  - first:
+      213: 9191048175819819450
+    second: old_tileset_8
+  - first:
+      213: 1913800499030620533
+    second: old_tileset_9
+  - first:
+      213: 2528661736160280221
+    second: old_tileset_10
+  - first:
+      213: -4664003429706225260
+    second: old_tileset_11
+  - first:
+      213: -1519295195157414677
+    second: old_tileset_12
+  - first:
+      213: 4146963270464058502
+    second: old_tileset_13
+  - first:
+      213: 8422886344793384747
+    second: old_tileset_14
+  - first:
+      213: 1414457963105913750
+    second: old_tileset_15
+  - first:
+      213: 3834757565036742977
+    second: old_tileset_16
+  - first:
+      213: -2186783077413789523
+    second: old_tileset_17
+  - first:
+      213: -8197346664430034437
+    second: old_tileset_18
+  - first:
+      213: -1127926984313745449
+    second: old_tileset_19
+  - first:
+      213: 2128387029065261508
+    second: old_tileset_20
+  - first:
+      213: -2332401861009100324
+    second: old_tileset_21
+  - first:
+      213: -7443537409418109765
+    second: old_tileset_22
+  - first:
+      213: -6149888622868890530
+    second: old_tileset_23
+  - first:
+      213: 3404850967213260576
+    second: old_tileset_24
+  - first:
+      213: 6780382204933972064
+    second: old_tileset_25
+  - first:
+      213: 3614957477510608737
+    second: old_tileset_26
+  - first:
+      213: -1889635580708374130
+    second: old_tileset_27
+  - first:
+      213: -275217204776398342
+    second: old_tileset_28
+  - first:
+      213: -26590296540933691
+    second: old_tileset_29
+  - first:
+      213: 4578674980495820915
+    second: old_tileset_30
+  - first:
+      213: 109784884090967511
+    second: old_tileset_31
+  - first:
+      213: 1793213744441986603
+    second: old_tileset_32
+  - first:
+      213: 6557086300556359957
+    second: old_tileset_33
+  - first:
+      213: 2104196141061334378
+    second: old_tileset_34
+  - first:
+      213: 8905456067546967585
+    second: old_tileset_35
+  - first:
+      213: -2860363157464485155
+    second: old_tileset_36
+  - first:
+      213: 7417067587627146588
+    second: old_tileset_37
+  - first:
+      213: 8116772805045559557
+    second: old_tileset_38
+  - first:
+      213: -3349397408065865184
+    second: old_tileset_39
+  - first:
+      213: -3328322476980325390
+    second: old_tileset_40
+  - first:
+      213: 1447782942078168565
+    second: old_tileset_41
+  - first:
+      213: -4374994206871859350
+    second: old_tileset_42
+  - first:
+      213: -5640396599361311646
+    second: old_tileset_43
+  - first:
+      213: -3275332573858882638
+    second: old_tileset_44
+  - first:
+      213: -7520930262142494765
+    second: old_tileset_45
+  - first:
+      213: -2626856608913054631
+    second: old_tileset_46
+  - first:
+      213: -8135451047670733170
+    second: old_tileset_47
+  - first:
+      213: 7989802353292180141
+    second: old_tileset_48
+  - first:
+      213: -8649352302517131117
+    second: old_tileset_49
+  - first:
+      213: -8239047902127579977
+    second: old_tileset_50
+  - first:
+      213: 2163656471572287388
+    second: old_tileset_51
+  - first:
+      213: 7624129536926543094
+    second: old_tileset_52
+  - first:
+      213: -7344899334628605365
+    second: old_tileset_53
+  - first:
+      213: 6524267044357969069
+    second: old_tileset_54
+  - first:
+      213: 9027802604638684651
+    second: old_tileset_55
+  - first:
+      213: 5512496115273380733
+    second: old_tileset_56
+  - first:
+      213: -42496031898061571
+    second: old_tileset_57
+  - first:
+      213: 7210924673805705049
+    second: old_tileset_58
+  - first:
+      213: -7647823586872278443
+    second: old_tileset_59
+  - first:
+      213: 7144884161426714066
+    second: old_tileset_60
+  - first:
+      213: -6130712325225757434
+    second: old_tileset_61
+  - first:
+      213: 7259534751159067464
+    second: old_tileset_62
+  - first:
+      213: 2264406047510326336
+    second: old_tileset_63
+  - first:
+      213: 8506835926660970653
+    second: old_tileset_64
+  - first:
+      213: -5951754635783945145
+    second: old_tileset_65
+  - first:
+      213: 1264938515621032868
+    second: old_tileset_66
+  - first:
+      213: 485976319089289961
+    second: old_tileset_67
+  - first:
+      213: -1296167639111595837
+    second: old_tileset_68
+  - first:
+      213: -6996795083173671759
+    second: old_tileset_69
+  - first:
+      213: -3122207662137815028
+    second: old_tileset_70
+  - first:
+      213: -7956970623095055921
+    second: old_tileset_71
+  - first:
+      213: -8047682573786722854
+    second: old_tileset_72
+  - first:
+      213: -4193190955338543099
+    second: old_tileset_73
+  - first:
+      213: 4298965765849695577
+    second: old_tileset_74
+  - first:
+      213: 2307150792390672241
+    second: old_tileset_75
+  - first:
+      213: 7514875637501623505
+    second: old_tileset_76
+  - first:
+      213: -8032761416728581767
+    second: old_tileset_77
+  - first:
+      213: -3817630352614298493
+    second: old_tileset_78
+  - first:
+      213: -4600899675176697377
+    second: old_tileset_79
+  - first:
+      213: -4753205159030987248
+    second: old_tileset_80
+  - first:
+      213: -6719484374859500223
+    second: old_tileset_81
+  - first:
+      213: -8813125777789830967
+    second: old_tileset_82
+  - first:
+      213: 5013757009342402615
+    second: old_tileset_83
+  - first:
+      213: 4644157040075372810
+    second: old_tileset_84
+  - first:
+      213: -4224885118906057237
+    second: old_tileset_85
+  - first:
+      213: 8831654396095819573
+    second: old_tileset_86
+  - first:
+      213: 5049082397450407971
+    second: old_tileset_87
+  - first:
+      213: 2714344934266671842
+    second: old_tileset_88
+  - first:
+      213: -2331691148065806559
+    second: old_tileset_89
+  - first:
+      213: 2478672363679961022
+    second: old_tileset_90
+  - first:
+      213: 6049113113382180508
+    second: old_tileset_91
+  - first:
+      213: -8700468884816611253
+    second: old_tileset_92
+  - first:
+      213: 5966374700605037402
+    second: old_tileset_93
+  - first:
+      213: -6346872556131918177
+    second: old_tileset_94
+  - first:
+      213: 7843319776565071563
+    second: old_tileset_95
+  - first:
+      213: 2936279755986131200
+    second: old_tileset_96
+  - first:
+      213: -6293144225292278190
+    second: old_tileset_97
+  - first:
+      213: -8900050841324346504
+    second: old_tileset_98
+  - first:
+      213: 1500753951655603791
+    second: old_tileset_99
+  - first:
+      213: -299800458542168106
+    second: old_tileset_100
+  - first:
+      213: 7862728816130452001
+    second: old_tileset_101
+  - first:
+      213: 5544384927698397833
+    second: old_tileset_102
+  - first:
+      213: 3817446712317986133
+    second: old_tileset_103
+  - first:
+      213: 4166909245157947799
+    second: old_tileset_104
+  - first:
+      213: -5126616364268495083
+    second: old_tileset_105
+  - first:
+      213: 5553742145133921478
+    second: old_tileset_106
+  - first:
+      213: 3294662143497350352
+    second: old_tileset_107
+  - first:
+      213: 6889737783183016003
+    second: old_tileset_108
+  - first:
+      213: -1953857617936136769
+    second: old_tileset_109
+  - first:
+      213: 4597308565124522123
+    second: old_tileset_110
+  - first:
+      213: 2218817158684484731
+    second: old_tileset_111
+  - first:
+      213: 5988671799875452358
+    second: old_tileset_112
+  - first:
+      213: 6533136485419710148
+    second: old_tileset_113
+  - first:
+      213: -6900015798476823813
+    second: old_tileset_114
+  - first:
+      213: -8246187875114205716
+    second: old_tileset_115
+  - first:
+      213: 5865301004481084202
+    second: old_tileset_116
+  - first:
+      213: 4682460874503169551
+    second: old_tileset_117
+  - first:
+      213: -8844872711820212034
+    second: old_tileset_118
+  - first:
+      213: -2187201005187472634
+    second: old_tileset_119
+  - first:
+      213: 8378666190838902866
+    second: old_tileset_120
+  - first:
+      213: -7380274254455726294
+    second: old_tileset_121
+  - first:
+      213: -3474639150631864850
+    second: old_tileset_122
+  - first:
+      213: -5678347583448364017
+    second: old_tileset_123
+  - first:
+      213: -8127771030798247136
+    second: old_tileset_124
+  - first:
+      213: 8645860394836268007
+    second: old_tileset_125
+  - first:
+      213: 6446737032411178025
+    second: old_tileset_126
+  - first:
+      213: -3050374158709012951
+    second: old_tileset_127
+  - first:
+      213: 8371020980798804254
+    second: old_tileset_128
+  - first:
+      213: -6964961560078169562
+    second: old_tileset_129
+  - first:
+      213: -6678939385934296845
+    second: old_tileset_130
+  - first:
+      213: 7607887027899273203
+    second: old_tileset_131
+  - first:
+      213: -4944537112060774205
+    second: old_tileset_132
+  - first:
+      213: -2389260244116177758
+    second: old_tileset_133
+  - first:
+      213: 7213093368450236562
+    second: old_tileset_134
+  - first:
+      213: 8858432546692742904
+    second: old_tileset_135
+  - first:
+      213: 8414235696193623635
+    second: old_tileset_136
+  - first:
+      213: -3012417939506202702
+    second: old_tileset_137
+  - first:
+      213: -3379445221573120934
+    second: old_tileset_138
+  - first:
+      213: -8345201657743577349
+    second: old_tileset_139
+  - first:
+      213: 7893848367728830329
+    second: old_tileset_140
+  - first:
+      213: -8918346920770207706
+    second: old_tileset_141
+  - first:
+      213: 1080403544213975507
+    second: old_tileset_142
+  - first:
+      213: 8900775987855203610
+    second: old_tileset_143
+  - first:
+      213: 1368987023771150066
+    second: old_tileset_144
+  - first:
+      213: -5053704396494172799
+    second: old_tileset_145
+  - first:
+      213: 1175114649444038738
+    second: old_tileset_146
+  - first:
+      213: -7379338802360424117
+    second: old_tileset_147
+  - first:
+      213: 1762520217488125310
+    second: old_tileset_148
+  - first:
+      213: -7406335135797016251
+    second: old_tileset_149
+  - first:
+      213: 7453386734632923409
+    second: old_tileset_150
+  - first:
+      213: -2827856075564542767
+    second: old_tileset_151
+  - first:
+      213: 5840281999786730335
+    second: old_tileset_152
+  - first:
+      213: -969565087317058256
+    second: old_tileset_153
+  - first:
+      213: 5016850347736587740
+    second: old_tileset_154
+  - first:
+      213: 1791163675024822145
+    second: old_tileset_155
+  - first:
+      213: 9159626579202243395
+    second: old_tileset_156
+  - first:
+      213: 1805465366429728896
+    second: old_tileset_157
+  - first:
+      213: 1206688383386769042
+    second: old_tileset_158
+  - first:
+      213: -4175375659857172457
+    second: old_tileset_159
+  - first:
+      213: -2134720419358407108
+    second: old_tileset_160
+  - first:
+      213: -3313606023775810616
+    second: old_tileset_161
+  - first:
+      213: -2806092156797898950
+    second: old_tileset_162
+  - first:
+      213: 7227768258291144325
+    second: old_tileset_163
+  - first:
+      213: 6756422301495772590
+    second: old_tileset_164
+  - first:
+      213: -7573381429351052270
+    second: old_tileset_165
+  - first:
+      213: 1655988672008895227
+    second: old_tileset_166
+  - first:
+      213: 4415753959936084819
+    second: old_tileset_167
+  - first:
+      213: -6563486361787139247
+    second: old_tileset_168
+  - first:
+      213: 3239008513057425939
+    second: old_tileset_169
+  - first:
+      213: 6594220261875805057
+    second: old_tileset_170
+  - first:
+      213: -8243934735898155528
+    second: old_tileset_171
+  - first:
+      213: 405896550069971342
+    second: old_tileset_172
+  - first:
+      213: 2570677182155257228
+    second: old_tileset_173
+  - first:
+      213: 1451266059865040616
+    second: old_tileset_174
+  - first:
+      213: -2026155864413002489
+    second: old_tileset_175
+  - first:
+      213: -5416866584057245430
+    second: old_tileset_176
+  - first:
+      213: -4142149655113079571
+    second: old_tileset_177
+  - first:
+      213: 530826878409123110
+    second: old_tileset_178
+  - first:
+      213: -2475898001087604158
+    second: old_tileset_179
+  - first:
+      213: -556456260790306476
+    second: old_tileset_180
+  - first:
+      213: 6169508414075769371
+    second: old_tileset_181
+  - first:
+      213: -8437847880088936461
+    second: old_tileset_182
+  - first:
+      213: 2932310463927650072
+    second: old_tileset_183
+  - first:
+      213: 9092489004604989004
+    second: old_tileset_184
+  - first:
+      213: 6562577026899785977
+    second: old_tileset_185
+  - first:
+      213: -470278298434815030
+    second: old_tileset_186
+  - first:
+      213: 5868805367170219103
+    second: old_tileset_187
+  - first:
+      213: 6020015767428879382
+    second: old_tileset_188
+  - first:
+      213: 4635059016871217758
+    second: old_tileset_189
+  - first:
+      213: -1748654284749042751
+    second: old_tileset_190
+  - first:
+      213: -5234788190477610642
+    second: old_tileset_191
+  - first:
+      213: 4261850738181844520
+    second: old_tileset_192
+  - first:
+      213: -8912399628446297181
+    second: old_tileset_193
+  - first:
+      213: -3492589420551853304
+    second: old_tileset_194
+  - first:
+      213: 5424786708880090010
+    second: old_tileset_195
+  - first:
+      213: -2789379859519602801
+    second: old_tileset_196
+  - first:
+      213: -4121523006850421029
+    second: old_tileset_197
+  - first:
+      213: 4720992858656555776
+    second: old_tileset_198
+  - first:
+      213: 438373733875001876
+    second: old_tileset_199
+  - first:
+      213: 4352008703386913960
+    second: old_tileset_200
+  - first:
+      213: 1044229938806356534
+    second: old_tileset_201
+  - first:
+      213: -2261470136953785653
+    second: old_tileset_202
+  - first:
+      213: 1855775844254520187
+    second: old_tileset_203
+  - first:
+      213: 1665471679276178973
+    second: old_tileset_204
+  - first:
+      213: 3005248853784063449
+    second: old_tileset_205
+  - first:
+      213: -1705413694764654621
+    second: old_tileset_206
+  - first:
+      213: -6866570186687681666
+    second: old_tileset_207
+  - first:
+      213: 7318232028028021639
+    second: old_tileset_208
+  - first:
+      213: -726816712409162626
+    second: old_tileset_209
+  - first:
+      213: -1441701652737002445
+    second: old_tileset_210
+  - first:
+      213: -4385808607375473143
+    second: old_tileset_211
+  - first:
+      213: -7407516702653207624
+    second: old_tileset_212
+  - first:
+      213: 1526858350884044827
+    second: old_tileset_213
+  - first:
+      213: -2171145909935684295
+    second: old_tileset_214
+  - first:
+      213: -2071521106092955007
+    second: old_tileset_215
+  - first:
+      213: 6466739664838995089
+    second: old_tileset_216
+  - first:
+      213: -7018083654032500656
+    second: old_tileset_217
+  - first:
+      213: -5743499705200137416
+    second: old_tileset_218
+  - first:
+      213: -6883355761321554598
+    second: old_tileset_219
+  - first:
+      213: 8289931165144708646
+    second: old_tileset_220
+  - first:
+      213: -7076888549314387045
+    second: old_tileset_221
+  - first:
+      213: -3878031488193726716
+    second: old_tileset_222
+  - first:
+      213: 4463908237245384319
+    second: old_tileset_223
+  - first:
+      213: -8627444098323190453
+    second: old_tileset_224
+  - first:
+      213: 1237564021620479295
+    second: old_tileset_225
+  - first:
+      213: 3404583692545384640
+    second: old_tileset_226
+  - first:
+      213: 2018769661920150892
+    second: old_tileset_227
+  - first:
+      213: -6059494551486915586
+    second: old_tileset_228
+  - first:
+      213: 6148297703273082413
+    second: old_tileset_229
+  - first:
+      213: 5410127878045608693
+    second: old_tileset_230
+  - first:
+      213: -1788519783490913146
+    second: old_tileset_231
+  - first:
+      213: 5721810621996923024
+    second: old_tileset_232
+  - first:
+      213: 5315565316711548104
+    second: old_tileset_233
+  - first:
+      213: -3854692385292930806
+    second: old_tileset_234
+  - first:
+      213: 3810067246574990438
+    second: old_tileset_235
+  - first:
+      213: 8793885391957982164
+    second: old_tileset_236
+  - first:
+      213: -868680444542594547
+    second: old_tileset_237
+  - first:
+      213: 4086128267880021530
+    second: old_tileset_238
+  - first:
+      213: 7403797737707771976
+    second: old_tileset_239
+  - first:
+      213: -7727312261026080758
+    second: old_tileset_240
+  - first:
+      213: 1429608936512722044
+    second: old_tileset_241
+  - first:
+      213: -2057613782638557294
+    second: old_tileset_242
+  - first:
+      213: -7168123503235858222
+    second: old_tileset_243
+  - first:
+      213: -2568016700000158742
+    second: old_tileset_244
+  - first:
+      213: -7729190184260285852
+    second: old_tileset_245
+  - first:
+      213: -5590404495770410901
+    second: old_tileset_246
+  - first:
+      213: -8303885618849100788
+    second: old_tileset_247
+  - first:
+      213: -803887549109588679
+    second: old_tileset_248
+  - first:
+      213: -6725425260886788603
+    second: old_tileset_249
+  - first:
+      213: -2855762121362116553
+    second: old_tileset_250
+  - first:
+      213: 569444209144278433
+    second: old_tileset_251
+  - first:
+      213: 8738458656909958874
+    second: old_tileset_252
+  - first:
+      213: 6618805937015104876
+    second: old_tileset_253
+  - first:
+      213: 7913221198582702665
+    second: old_tileset_254
+  - first:
+      213: 2499540275366771798
+    second: old_tileset_255
+  - first:
+      213: 7841918865164275143
+    second: old_tileset_256
+  - first:
+      213: 4424749773599242438
+    second: old_tileset_257
+  - first:
+      213: 7724974316027549791
+    second: old_tileset_258
+  - first:
+      213: 9016034314508994337
+    second: old_tileset_259
+  - first:
+      213: -4444149660050101119
+    second: old_tileset_260
+  - first:
+      213: 7777810265280139979
+    second: old_tileset_261
+  - first:
+      213: 2650589197189103063
+    second: old_tileset_262
+  - first:
+      213: 410607462824613425
+    second: old_tileset_263
+  - first:
+      213: -4661653132469684914
+    second: old_tileset_264
+  - first:
+      213: -687870088451376737
+    second: old_tileset_265
+  - first:
+      213: -2051299963658222308
+    second: old_tileset_266
+  - first:
+      213: 867114979640834417
+    second: old_tileset_267
+  - first:
+      213: 2754722969436210708
+    second: old_tileset_268
+  - first:
+      213: 7401977769214806304
+    second: old_tileset_269
+  - first:
+      213: -5285861644497627362
+    second: old_tileset_270
+  - first:
+      213: 3735228735350020317
+    second: old_tileset_271
+  - first:
+      213: 6331538719854687563
+    second: old_tileset_272
+  - first:
+      213: 147552465084462694
+    second: old_tileset_273
+  - first:
+      213: -3160030752186688692
+    second: old_tileset_274
+  - first:
+      213: 4583974431315708087
+    second: old_tileset_275
+  - first:
+      213: 7505310954016228532
+    second: old_tileset_276
+  - first:
+      213: 1787900152924520007
+    second: old_tileset_277
+  - first:
+      213: -3110749663283090519
+    second: old_tileset_278
+  - first:
+      213: -8734301516958045268
+    second: old_tileset_279
+  - first:
+      213: -6887438510332520072
+    second: old_tileset_280
+  - first:
+      213: 8755001446596813783
+    second: old_tileset_281
+  - first:
+      213: 1036683474725005160
+    second: old_tileset_282
+  - first:
+      213: 7690325606149282005
+    second: old_tileset_283
+  - first:
+      213: 1049162390603593648
+    second: old_tileset_284
+  - first:
+      213: 1955352446616364033
+    second: old_tileset_285
+  - first:
+      213: -3275412951740213923
+    second: old_tileset_286
+  - first:
+      213: -3707216273105233902
+    second: old_tileset_287
+  - first:
+      213: -1933202867783894907
+    second: old_tileset_288
+  - first:
+      213: 4269089428416428738
+    second: old_tileset_289
+  - first:
+      213: 2402858261955230635
+    second: old_tileset_290
+  - first:
+      213: -8726484377950028146
+    second: old_tileset_291
+  - first:
+      213: -7600301052525576456
+    second: old_tileset_292
+  - first:
+      213: -6468933421993482499
+    second: old_tileset_293
+  - first:
+      213: 8376656709780245002
+    second: old_tileset_294
+  - first:
+      213: 7844916490111545280
+    second: old_tileset_295
+  - first:
+      213: -7383728335854010634
+    second: old_tileset_296
+  - first:
+      213: -5393514094431034816
+    second: old_tileset_297
+  - first:
+      213: 3407113214665039828
+    second: old_tileset_298
+  - first:
+      213: 2733104342160419090
+    second: old_tileset_299
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: old_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a11bb74c15c1aa0800000000000000
+      internalID: -6188981883583260124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d55f8ed7d0c3e330800000000000000
+      internalID: 3739044149032080851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0dc3526a19e6820800000000000000
+      internalID: 2913426151730630899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1703681ecd7f7bfa0800000000000000
+      internalID: -5784882668285579151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe499539f5424660800000000000000
+      internalID: 7368528876979965695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fb5bf2abb1a4eb0800000000000000
+      internalID: -4734941571748348038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7355ad6c8fa6b9a90800000000000000
+      internalID: -7306128353757866697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6799f00019d3fcfd0800000000000000
+      internalID: -2319567590091941514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab90e31ae992d8f70800000000000000
+      internalID: 9191048175819819450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5797fa30a6f2f8a10800000000000000
+      internalID: 1913800499030620533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eb4fc937c971320800000000000000
+      internalID: 2528661736160280221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49928257791264fb0800000000000000
+      internalID: -4664003429706225260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec3fafc1116aeae0800000000000000
+      internalID: -1519295195157414677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6843a987f19fc8930800000000000000
+      internalID: 4146963270464058502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27e5e4118a14e470800000000000000
+      internalID: 8422886344793384747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b86a8f50a21a310800000000000000
+      internalID: 1414457963105913750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149c1cf10bbc73530800000000000000
+      internalID: 3834757565036742977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da06aed806cf6a1e0800000000000000
+      internalID: -2186783077413789523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf12aedd3ac2d3e80800000000000000
+      internalID: -8197346664430034437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfc66f326cc850f0800000000000000
+      internalID: -1127926984313745449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1ebfbe9bc898d10800000000000000
+      internalID: 2128387029065261508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1b7117dd4a1afd0800000000000000
+      internalID: -2332401861009100324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc5d47e92e33b890800000000000000
+      internalID: -7443537409418109765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cfea981e437aaa0800000000000000
+      internalID: -6149888622868890530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f34ed3ae5704f20800000000000000
+      internalID: 3404850967213260576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060287ef0b1c81e50800000000000000
+      internalID: 6780382204933972064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16779254ca8ea2230800000000000000
+      internalID: 3614957477510608737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8930f8737aa6c5e0800000000000000
+      internalID: -1889635580708374130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af11a31196b3e2cf0800000000000000
+      internalID: -275217204776398342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c19434244881aff0800000000000000
+      internalID: -26590296540933691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3780c6ac2a8ba8f30800000000000000
+      internalID: 4578674980495820915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d513f935c8068100800000000000000
+      internalID: 109784884090967511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e00d35666c2e810800000000000000
+      internalID: 1793213744441986603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519fd3adf337ffa50800000000000000
+      internalID: 6557086300556359957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6565b5ed3b933d10800000000000000
+      internalID: 2104196141061334378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12eebfc3c19869b70800000000000000
+      internalID: 8905456067546967585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2f6b6fcd2fd48d0800000000000000
+      internalID: -2860363157464485155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d54937ca7bee660800000000000000
+      internalID: 7417067587627146588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501aa479cd194a070800000000000000
+      internalID: 8116772805045559557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_39
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02abe90adcc8481d0800000000000000
+      internalID: -3349397408065865184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3b3a5675c6fc1d0800000000000000
+      internalID: -3328322476980325390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd60764aee871410800000000000000
+      internalID: 1447782942078168565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fc205d2f5e843c0800000000000000
+      internalID: -4374994206871859350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c6fbe4d2949b1b0800000000000000
+      internalID: -5640396599361311646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb10e5a06eab82d0800000000000000
+      internalID: -3275332573858882638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7d28036c940a790800000000000000
+      internalID: -7520930262142494765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_46
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954a9d5f4d78b8bd0800000000000000
+      internalID: -2626856608913054631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86a1082062191f80800000000000000
+      internalID: -8135451047670733170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa7f8598ea71ee60800000000000000
+      internalID: 7989802353292180141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398624738e357f780800000000000000
+      internalID: -8649352302517131117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc124ad59509ad80800000000000000
+      internalID: -8239047902127579977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_51
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f8a0ce81ad60e10800000000000000
+      internalID: 2163656471572287388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fce1126b695ec960800000000000000
+      internalID: 7624129536926543094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42857858fca11a90800000000000000
+      internalID: -7344899334628605365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_54
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da49ebe4f4ada8a50800000000000000
+      internalID: 6524267044357969069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_55
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5c5d733a2394d70800000000000000
+      internalID: 9027802604638684651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_56
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d733798a202508c40800000000000000
+      internalID: 5512496115273380733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df43a5a8516096ff0800000000000000
+      internalID: -42496031898061571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fd94429c9521460800000000000000
+      internalID: 7210924673805705049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552cf97b7f87dd590800000000000000
+      internalID: -7647823586872278443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_60
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd67232a4ab72360800000000000000
+      internalID: 7144884161426714066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6054fc24f955beaa0800000000000000
+      internalID: -6130712325225757434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843a07db46c0fb460800000000000000
+      internalID: 7259534751159067464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_63
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c69198d49cc6f10800000000000000
+      internalID: 2264406047510326336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d987823443a5e0670800000000000000
+      internalID: 8506835926660970653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74440d741be176da0800000000000000
+      internalID: -5951754635783945145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_66
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a33d46c0e6fd8110800000000000000
+      internalID: 1264938515621032868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_67
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaa19c23e88eb600800000000000000
+      internalID: 485976319089289961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8856d4666130ee0800000000000000
+      internalID: -1296167639111595837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_69
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bccb3541f366ee90800000000000000
+      internalID: -6996795083173671759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_70
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00d5476ca0bba4d0800000000000000
+      internalID: -3122207662137815028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_71
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9533a4069239190800000000000000
+      internalID: -7956970623095055921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add475c6653e05090800000000000000
+      internalID: -8047682573786722854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5005aa7ea0bcec5c0800000000000000
+      internalID: -4193190955338543099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_74
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955490f469ef8ab30800000000000000
+      internalID: 4298965765849695577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ff4bffb65a40020800000000000000
+      internalID: 2307150792390672241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc7588a3933a4860800000000000000
+      internalID: 7514875637501623505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_77
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979ed660d06e58090800000000000000
+      internalID: -8032761416728581767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_78
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ceca4cb6d050bc0800000000000000
+      internalID: -3817630352614298493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_79
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd102ed3f125620c0800000000000000
+      internalID: -4600899675176697377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_80
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01667676719390eb0800000000000000
+      internalID: -4753205159030987248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14536baff889fb2a0800000000000000
+      internalID: -6719484374859500223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_82
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8bffd8ccc71b580800000000000000
+      internalID: -8813125777789830967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7309afb9f61749540800000000000000
+      internalID: 5013757009342402615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_84
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0972ded83c537040800000000000000
+      internalID: 4644157040075372810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed35c66e513e55c0800000000000000
+      internalID: -4224885118906057237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_86
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fee4291e6509a70800000000000000
+      internalID: 8831654396095819573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_87
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32095b570b1f11640800000000000000
+      internalID: 5049082397450407971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_88
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e298d4265a4ba520800000000000000
+      internalID: 2714344934266671842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1276d91314b24afd0800000000000000
+      internalID: -2331691148065806559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_90
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfc8b7d163066220800000000000000
+      internalID: 2478672363679961022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_91
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c965d49b354c2f350800000000000000
+      internalID: 6049113113382180508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_92
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48ba2575a9b14780800000000000000
+      internalID: -8700468884816611253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_93
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bd072dd22dcc250800000000000000
+      internalID: 5966374700605037402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_94
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ed41199016be7a0800000000000000
+      internalID: -6346872556131918177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_95
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce05f5f7c119dc60800000000000000
+      internalID: 7843319776565071563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00959b881e2cfb820800000000000000
+      internalID: 2936279755986131200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256272b6ba24aa8a0800000000000000
+      internalID: -6293144225292278190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_98
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87322ff0aeaac7480800000000000000
+      internalID: -8900050841324346504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_99
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 160
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e22b784cfb3d410800000000000000
+      internalID: 1500753951655603791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_100
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d748154215e6dbf0800000000000000
+      internalID: -299800458542168106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 160
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aeea223360e1d60800000000000000
+      internalID: 7862728816130452001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_102
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 170
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a2e7167bc91fc40800000000000000
+      internalID: 5544384927698397833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_103
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55542b42f8b4af430800000000000000
+      internalID: 3817446712317986133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_104
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7993ee891e5d3d930800000000000000
+      internalID: 4166909245157947799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_105
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f521424999ad8b0800000000000000
+      internalID: -5126616364268495083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_106
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 160
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4c2d65e0bd21d40800000000000000
+      internalID: 5553742145133921478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_107
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc261e73cdf8bd20800000000000000
+      internalID: 3294662143497350352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_108
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 160
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340063aa2044d9f50800000000000000
+      internalID: 6889737783183016003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_109
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5c93539d082e4e0800000000000000
+      internalID: -1953857617936136769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_110
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 160
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80ab1b48cbeccf30800000000000000
+      internalID: 4597308565124522123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b742ee43372dace10800000000000000
+      internalID: 2218817158684484731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_112
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdb9fbc5490c1350800000000000000
+      internalID: 5988671799875452358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_113
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 170
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6f59af40d5aaa50800000000000000
+      internalID: 6533136485419710148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_114
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2a43b60383e30a0800000000000000
+      internalID: -6900015798476823813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_115
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced3fa851d7af8d80800000000000000
+      internalID: -8246187875114205716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_116
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b36d8103cb56150800000000000000
+      internalID: 5865301004481084202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_117
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 160
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f062d6b4b517bf040800000000000000
+      internalID: 4682460874503169551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_118
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 160
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb809687123b04580800000000000000
+      internalID: -8844872711820212034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_119
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6036c69264085a1e0800000000000000
+      internalID: -2187201005187472634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_120
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250378c2280074470800000000000000
+      internalID: 8378666190838902866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_121
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f943efaaff39990800000000000000
+      internalID: -7380274254455726294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_122
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee53ce71a1a97cfc0800000000000000
+      internalID: -3474639150631864850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ccc5145f47231b0800000000000000
+      internalID: -5678347583448364017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_124
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 160
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b5f8d6f4b543f80800000000000000
+      internalID: -8127771030798247136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_125
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e395dba8344cf770800000000000000
+      internalID: 8645860394836268007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_126
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 153
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9246939bc29677950800000000000000
+      internalID: 6446737032411178025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_127
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9264e1e3dd4eaa5d0800000000000000
+      internalID: -3050374158709012951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 150
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11dadffa37db2470800000000000000
+      internalID: 8371020980798804254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_129
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 141
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a4a41fc5c775f90800000000000000
+      internalID: -6964961560078169562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_130
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 150
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f84509d304af43a0800000000000000
+      internalID: -6678939385934296845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_131
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 141
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff0d3d81f4a49960800000000000000
+      internalID: 7607887027899273203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_132
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 150
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8b1e0a1b9716bb0800000000000000
+      internalID: -4944537112060774205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 141
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acfd718774a7ded0800000000000000
+      internalID: -2389260244116177758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_134
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 150
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290c336b33e0a1460800000000000000
+      internalID: 7213093368450236562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_135
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 141
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe316c97797fea70800000000000000
+      internalID: 8858432546692742904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_136
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 140
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356580009ce55c470800000000000000
+      internalID: 8414235696193623635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_137
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 140
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7f7b038ddb136d0800000000000000
+      internalID: -3012417939506202702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_138
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 144
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c2e3ed97cc911d0800000000000000
+      internalID: -3379445221573120934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_139
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 144
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe613b9e43ef2c80800000000000000
+      internalID: -8345201657743577349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977264d54459c8d60800000000000000
+      internalID: 7893848367728830329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_141
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 144
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6200bcb1abaab3480800000000000000
+      internalID: -8918346920770207706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_142
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 143
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d172fa9c4d5efe00800000000000000
+      internalID: 1080403544213975507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_143
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 143
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d9f654a98e58b70800000000000000
+      internalID: 8900775987855203610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6aff5e17e9ff210800000000000000
+      internalID: 1368987023771150066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d822780a2add9b0800000000000000
+      internalID: -5053704396494172799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_146
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 130
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25838723c88de4010800000000000000
+      internalID: 1175114649444038738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_147
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49ec08e472579990800000000000000
+      internalID: -7379338802360424117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_148
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7de2d0bccab57810800000000000000
+      internalID: 1762520217488125310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_149
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54903573f69673990800000000000000
+      internalID: -7406335135797016251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_150
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1117763debfbf6760800000000000000
+      internalID: 7453386734632923409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_151
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d49b04c1ef61c8d0800000000000000
+      internalID: -2827856075564542767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_152
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5365612989dc0150800000000000000
+      internalID: 5840281999786730335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_153
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d98d7a0b96b82f0800000000000000
+      internalID: -969565087317058256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_154
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd52249fce6f9540800000000000000
+      internalID: 5016850347736587740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_155
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f00785fdd7bd810800000000000000
+      internalID: 1791163675024822145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_156
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b739018d78d1f70800000000000000
+      internalID: 9159626579202243395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_157
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080805c5f2d4e0910800000000000000
+      internalID: 1805465366429728896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_158
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296db5ef0b40fb010800000000000000
+      internalID: 1206688383386769042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_159
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718a66e95f51e06c0800000000000000
+      internalID: -4175375659857172457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_160
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c368e5db613ff52e0800000000000000
+      internalID: -2134720419358407108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_161
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb8f3ba0e4b302d0800000000000000
+      internalID: -3313606023775810616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_162
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f2d0bfc02ce09d0800000000000000
+      internalID: -2806092156797898950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_163
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5869942cfe03e4460800000000000000
+      internalID: 7227768258291144325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_164
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5ce214942a3cd50800000000000000
+      internalID: 6756422301495772590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_165
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c8dfa27b1f5e690800000000000000
+      internalID: -7573381429351052270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_166
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa39236ce04bf610800000000000000
+      internalID: 1655988672008895227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_167
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bc385b4d8e74d30800000000000000
+      internalID: 4415753959936084819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_168
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b7e85cdefc9e4a0800000000000000
+      internalID: -6563486361787139247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_169
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a0145e41543fc20800000000000000
+      internalID: 3239008513057425939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_170
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b6ac7f360638b50800000000000000
+      internalID: 6594220261875805057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_171
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f569433909a79d80800000000000000
+      internalID: -8243934735898155528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_172
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e892a7203c802a500800000000000000
+      internalID: 405896550069971342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_173
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 110
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85f092f641eca320800000000000000
+      internalID: 2570677182155257228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_174
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e626d4dacee32410800000000000000
+      internalID: 1451266059865040616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_175
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705a612f9f5a1e3e0800000000000000
+      internalID: -2026155864413002489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_176
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 120
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a019595aa8c63d4b0800000000000000
+      internalID: -5416866584057245430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_177
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 120
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de46a70b5d02486c0800000000000000
+      internalID: -4142149655113079571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_178
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 111
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6252ec4cb30ed5700800000000000000
+      internalID: 530826878409123110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ad219c2e7d3add0800000000000000
+      internalID: -2475898001087604158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4593d82aaf11748f0800000000000000
+      internalID: -556456260790306476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_181
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1215c3173f7e9550800000000000000
+      internalID: 6169508414075769371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_182
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff14860f0eb6ea80800000000000000
+      internalID: -8437847880088936461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_183
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 100
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8178195b4d8a1b820800000000000000
+      internalID: 2932310463927650072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_184
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e10ab53920f2e70800000000000000
+      internalID: 9092489004604989004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_185
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f830833905f21b50800000000000000
+      internalID: 6562577026899785977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_186
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 100
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbb734116c3979f0800000000000000
+      internalID: -470278298434815030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_187
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c361e136f227150800000000000000
+      internalID: 5868805367170219103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_188
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 100
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61459dfe1746b8350800000000000000
+      internalID: 6020015767428879382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_189
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a84954e99035040800000000000000
+      internalID: 4635059016871217758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_190
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 100
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb819a51388bb7e0800000000000000
+      internalID: -1748654284749042751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_191
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e611c2830eb4a57b0800000000000000
+      internalID: -5234788190477610642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_192
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 100
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ea0178aa2252b30800000000000000
+      internalID: 4261850738181844520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_193
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3922202cbc05480800000000000000
+      internalID: -8912399628446297181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_194
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 100
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b28b13d64d78fc0800000000000000
+      internalID: -3492589420551853304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_195
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93ee0d15c6b84b40800000000000000
+      internalID: 5424786708880090010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_196
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f74b9ebc12a49d0800000000000000
+      internalID: -2789379859519602801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_197
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdea41b79a86dc6c0800000000000000
+      internalID: -4121523006850421029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_198
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0034167fdf5548140800000000000000
+      internalID: 4720992858656555776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_199
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a2b7e969a651600800000000000000
+      internalID: 438373733875001876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_200
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac09c89bd0756c30800000000000000
+      internalID: 4352008703386913960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_201
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a7166c899dd7e00800000000000000
+      internalID: 1044229938806356534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc237b864e4ad90e0800000000000000
+      internalID: -2261470136953785653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b739a8b4c4a01c910800000000000000
+      internalID: 1855775844254520187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_204
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1edab21ba1fc1710800000000000000
+      internalID: 1665471679276178973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_205
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dde277f8e9c4b920800000000000000
+      internalID: 3005248853784063449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_206
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef5770c7472558e0800000000000000
+      internalID: -1705413694764654621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_207
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 80
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b613dbbca05b0a0800000000000000
+      internalID: -6866570186687681666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_208
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 80
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b2f7e71459f8560800000000000000
+      internalID: 7318232028028021639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_209
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cd8080d04d9e5f0800000000000000
+      internalID: -726816712409162626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_210
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334748c3cfb0efbe0800000000000000
+      internalID: -1441701652737002445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_211
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906c8800f4a7223c0800000000000000
+      internalID: -4385808607375473143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_212
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb259e3ec6333990800000000000000
+      internalID: -7407516702653207624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_213
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1048ca949d703510800000000000000
+      internalID: 1526858350884044827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_214
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935cdb25c4a8ed1e0800000000000000
+      internalID: -2171145909935684295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_215
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18aea96878a7043e0800000000000000
+      internalID: -2071521106092955007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_216
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c28a186797eb950800000000000000
+      internalID: 6466739664838995089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_217
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058da6d9912ca9e90800000000000000
+      internalID: -7018083654032500656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_218
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b2cffc27dfa40b0800000000000000
+      internalID: -5743499705200137416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_219
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d4ac797686970a0800000000000000
+      internalID: -6883355761321554598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_220
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626f3e60970cb0370800000000000000
+      internalID: 8289931165144708646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_221
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93261ffb57d9cd90800000000000000
+      internalID: -7076888549314387045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_222
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407fe6e78e67e2ac0800000000000000
+      internalID: -3878031488193726716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_223
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7683f614ecf2fd30800000000000000
+      internalID: 4463908237245384319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_224
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4de7ef7d49254880800000000000000
+      internalID: -8627444098323190453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_225
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f351e77bbe5bc2110800000000000000
+      internalID: 1237564021620479295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_226
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0614284d28f3f20800000000000000
+      internalID: 3404583692545384640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_227
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c650616cf4c140c10800000000000000
+      internalID: 2018769661920150892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_228
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb153c5fc958eba0800000000000000
+      internalID: -6059494551486915586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_229
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e21f0af24235550800000000000000
+      internalID: 6148297703273082413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_230
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faa85814a2a41b40800000000000000
+      internalID: 5410127878045608693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_231
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cf34f9bb6ed27e0800000000000000
+      internalID: -1788519783490913146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_232
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098fe2cf174f76f40800000000000000
+      internalID: 5721810621996923024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_233
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c48af21e7ea4c940800000000000000
+      internalID: 5315565316711548104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_234
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a013638d2b1618ac0800000000000000
+      internalID: -3854692385292930806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_235
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664f37269f310e430800000000000000
+      internalID: 3810067246574990438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_236
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbf6270c282a0a70800000000000000
+      internalID: 8793885391957982164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_237
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02d5b7fcb3d1f3f0800000000000000
+      internalID: -868680444542594547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_238
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ebba9a208d4b830800000000000000
+      internalID: 4086128267880021530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_239
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84899e0c0d29fb660800000000000000
+      internalID: 7403797737707771976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_240
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08150d807213c490800000000000000
+      internalID: -7727312261026080758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_241
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74909cd0cdf6d310800000000000000
+      internalID: 1429608936512722044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_242
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29781e89a23e173e0800000000000000
+      internalID: -2057613782638557294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_243
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d08f73f6a5b58c90800000000000000
+      internalID: -7168123503235858222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_244
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb3833da629c5cd0800000000000000
+      internalID: -2568016700000158742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_245
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46acab97a766cb490800000000000000
+      internalID: -7729190184260285852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_246
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60abd6fab4ea62b0800000000000000
+      internalID: -5590404495770410901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_247
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 40
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c4609860ca2cc80800000000000000
+      internalID: -8303885618849100788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_248
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93da6f3888408d4f0800000000000000
+      internalID: -803887549109588679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_249
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 40
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5067769ab5d7aa2a0800000000000000
+      internalID: -6725425260886788603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_250
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730f1392b7b4e58d0800000000000000
+      internalID: -2855762121362116553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_251
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ada27dbd7217e700800000000000000
+      internalID: 569444209144278433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_252
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade1e81a9dd354970800000000000000
+      internalID: 8738458656909958874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_253
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6528098ee8badb50800000000000000
+      internalID: 6618805937015104876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_254
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942ec9a01c861dd60800000000000000
+      internalID: 7913221198582702665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_255
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cb40723a620b220800000000000000
+      internalID: 2499540275366771798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_256
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd0d8bd8a714dc60800000000000000
+      internalID: 7841918865164275143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_257
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c87f5bc97ed76d30800000000000000
+      internalID: 4424749773599242438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_258
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5896d5363f943b60800000000000000
+      internalID: 7724974316027549791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_259
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1278a07a0736f1d70800000000000000
+      internalID: 9016034314508994337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c6a082e653352c0800000000000000
+      internalID: -4444149660050101119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_261
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2d8684a3550fb60800000000000000
+      internalID: 7777810265280139979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_262
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddb1f7d4d8c8c420800000000000000
+      internalID: 2650589197189103063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_263
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13619cbdf45c2b500800000000000000
+      internalID: 410607462824613425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_264
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45be0dac2b7e4fb0800000000000000
+      internalID: -4661653132469684914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_265
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f993d3e8cc13476f0800000000000000
+      internalID: -687870088451376737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_266
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1541622d815883e0800000000000000
+      internalID: -2051299963658222308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_267
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17979e4da7c980c00800000000000000
+      internalID: 867114979640834417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_268
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416cadf02fdba3620800000000000000
+      internalID: 2754722969436210708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_269
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0290361509b19b660800000000000000
+      internalID: 7401977769214806304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_270
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e175bdb07d8d4a6b0800000000000000
+      internalID: -5285861644497627362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_271
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd89e55aeb236d330800000000000000
+      internalID: 3735228735350020317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_272
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45f1967be42ed750800000000000000
+      internalID: 6331538719854687563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_273
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666b71b6f263c0200800000000000000
+      internalID: 147552465084462694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_274
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b1a9006c05524d0800000000000000
+      internalID: -3160030752186688692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_275
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8cb06557c8d9f30800000000000000
+      internalID: 4583974431315708087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_276
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b44cfe3c88382860800000000000000
+      internalID: 7505310954016228532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_277
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ebee467b5efc810800000000000000
+      internalID: 1787900152924520007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_278
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab68d6a9a564d4d0800000000000000
+      internalID: -3110749663283090519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_279
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab6f80fb0789c680800000000000000
+      internalID: -8734301516958045268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_280
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879d8438a27ea60a0800000000000000
+      internalID: -6887438510332520072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_281
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d32f600e63008970800000000000000
+      internalID: 8755001446596813783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_282
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867608fa02a036e00800000000000000
+      internalID: 1036683474725005160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_283
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d85e99c46689ba60800000000000000
+      internalID: 7690325606149282005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_284
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b770a3b2af5f8e00800000000000000
+      internalID: 1049162390603593648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_285
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1046247b0bec22b10800000000000000
+      internalID: 1955352446616364033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_286
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d559fc636456b82d0800000000000000
+      internalID: -3275412951740213923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_287
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218d308f0725d8cc0800000000000000
+      internalID: -3707216273105233902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_288
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58879fafb32eb25e0800000000000000
+      internalID: -1933202867783894907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_289
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caf22f673ade3b30800000000000000
+      internalID: 4269089428416428738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_290
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab347dbbdaa85120800000000000000
+      internalID: 2402858261955230635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_291
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8efa4271bc45e680800000000000000
+      internalID: -8726484377950028146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_292
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe7f2af57e468690800000000000000
+      internalID: -7600301052525576456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_293
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df62d6a935bb936a0800000000000000
+      internalID: -6468933421993482499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_294
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a08d765ecdf3470800000000000000
+      internalID: 8376656709780245002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_295
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfe3bdcbfdbedc60800000000000000
+      internalID: 7844916490111545280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_296
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe7f6ff23ab78990800000000000000
+      internalID: -7383728335854010634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_297
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0422066d1836625b0800000000000000
+      internalID: -5393514094431034816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_298
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df16a5ca6f784f20800000000000000
+      internalID: 3407113214665039828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_tileset_299
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219ac882befede520800000000000000
+      internalID: 2733104342160419090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      old_tileset_0: -6188981883583260124
+      old_tileset_1: 3739044149032080851
+      old_tileset_10: 2528661736160280221
+      old_tileset_100: -299800458542168106
+      old_tileset_101: 7862728816130452001
+      old_tileset_102: 5544384927698397833
+      old_tileset_103: 3817446712317986133
+      old_tileset_104: 4166909245157947799
+      old_tileset_105: -5126616364268495083
+      old_tileset_106: 5553742145133921478
+      old_tileset_107: 3294662143497350352
+      old_tileset_108: 6889737783183016003
+      old_tileset_109: -1953857617936136769
+      old_tileset_11: -4664003429706225260
+      old_tileset_110: 4597308565124522123
+      old_tileset_111: 2218817158684484731
+      old_tileset_112: 5988671799875452358
+      old_tileset_113: 6533136485419710148
+      old_tileset_114: -6900015798476823813
+      old_tileset_115: -8246187875114205716
+      old_tileset_116: 5865301004481084202
+      old_tileset_117: 4682460874503169551
+      old_tileset_118: -8844872711820212034
+      old_tileset_119: -2187201005187472634
+      old_tileset_12: -1519295195157414677
+      old_tileset_120: 8378666190838902866
+      old_tileset_121: -7380274254455726294
+      old_tileset_122: -3474639150631864850
+      old_tileset_123: -5678347583448364017
+      old_tileset_124: -8127771030798247136
+      old_tileset_125: 8645860394836268007
+      old_tileset_126: 6446737032411178025
+      old_tileset_127: -3050374158709012951
+      old_tileset_128: 8371020980798804254
+      old_tileset_129: -6964961560078169562
+      old_tileset_13: 4146963270464058502
+      old_tileset_130: -6678939385934296845
+      old_tileset_131: 7607887027899273203
+      old_tileset_132: -4944537112060774205
+      old_tileset_133: -2389260244116177758
+      old_tileset_134: 7213093368450236562
+      old_tileset_135: 8858432546692742904
+      old_tileset_136: 8414235696193623635
+      old_tileset_137: -3012417939506202702
+      old_tileset_138: -3379445221573120934
+      old_tileset_139: -8345201657743577349
+      old_tileset_14: 8422886344793384747
+      old_tileset_140: 7893848367728830329
+      old_tileset_141: -8918346920770207706
+      old_tileset_142: 1080403544213975507
+      old_tileset_143: 8900775987855203610
+      old_tileset_144: 1368987023771150066
+      old_tileset_145: -5053704396494172799
+      old_tileset_146: 1175114649444038738
+      old_tileset_147: -7379338802360424117
+      old_tileset_148: 1762520217488125310
+      old_tileset_149: -7406335135797016251
+      old_tileset_15: 1414457963105913750
+      old_tileset_150: 7453386734632923409
+      old_tileset_151: -2827856075564542767
+      old_tileset_152: 5840281999786730335
+      old_tileset_153: -969565087317058256
+      old_tileset_154: 5016850347736587740
+      old_tileset_155: 1791163675024822145
+      old_tileset_156: 9159626579202243395
+      old_tileset_157: 1805465366429728896
+      old_tileset_158: 1206688383386769042
+      old_tileset_159: -4175375659857172457
+      old_tileset_16: 3834757565036742977
+      old_tileset_160: -2134720419358407108
+      old_tileset_161: -3313606023775810616
+      old_tileset_162: -2806092156797898950
+      old_tileset_163: 7227768258291144325
+      old_tileset_164: 6756422301495772590
+      old_tileset_165: -7573381429351052270
+      old_tileset_166: 1655988672008895227
+      old_tileset_167: 4415753959936084819
+      old_tileset_168: -6563486361787139247
+      old_tileset_169: 3239008513057425939
+      old_tileset_17: -2186783077413789523
+      old_tileset_170: 6594220261875805057
+      old_tileset_171: -8243934735898155528
+      old_tileset_172: 405896550069971342
+      old_tileset_173: 2570677182155257228
+      old_tileset_174: 1451266059865040616
+      old_tileset_175: -2026155864413002489
+      old_tileset_176: -5416866584057245430
+      old_tileset_177: -4142149655113079571
+      old_tileset_178: 530826878409123110
+      old_tileset_179: -2475898001087604158
+      old_tileset_18: -8197346664430034437
+      old_tileset_180: -556456260790306476
+      old_tileset_181: 6169508414075769371
+      old_tileset_182: -8437847880088936461
+      old_tileset_183: 2932310463927650072
+      old_tileset_184: 9092489004604989004
+      old_tileset_185: 6562577026899785977
+      old_tileset_186: -470278298434815030
+      old_tileset_187: 5868805367170219103
+      old_tileset_188: 6020015767428879382
+      old_tileset_189: 4635059016871217758
+      old_tileset_19: -1127926984313745449
+      old_tileset_190: -1748654284749042751
+      old_tileset_191: -5234788190477610642
+      old_tileset_192: 4261850738181844520
+      old_tileset_193: -8912399628446297181
+      old_tileset_194: -3492589420551853304
+      old_tileset_195: 5424786708880090010
+      old_tileset_196: -2789379859519602801
+      old_tileset_197: -4121523006850421029
+      old_tileset_198: 4720992858656555776
+      old_tileset_199: 438373733875001876
+      old_tileset_2: 2913426151730630899
+      old_tileset_20: 2128387029065261508
+      old_tileset_200: 4352008703386913960
+      old_tileset_201: 1044229938806356534
+      old_tileset_202: -2261470136953785653
+      old_tileset_203: 1855775844254520187
+      old_tileset_204: 1665471679276178973
+      old_tileset_205: 3005248853784063449
+      old_tileset_206: -1705413694764654621
+      old_tileset_207: -6866570186687681666
+      old_tileset_208: 7318232028028021639
+      old_tileset_209: -726816712409162626
+      old_tileset_21: -2332401861009100324
+      old_tileset_210: -1441701652737002445
+      old_tileset_211: -4385808607375473143
+      old_tileset_212: -7407516702653207624
+      old_tileset_213: 1526858350884044827
+      old_tileset_214: -2171145909935684295
+      old_tileset_215: -2071521106092955007
+      old_tileset_216: 6466739664838995089
+      old_tileset_217: -7018083654032500656
+      old_tileset_218: -5743499705200137416
+      old_tileset_219: -6883355761321554598
+      old_tileset_22: -7443537409418109765
+      old_tileset_220: 8289931165144708646
+      old_tileset_221: -7076888549314387045
+      old_tileset_222: -3878031488193726716
+      old_tileset_223: 4463908237245384319
+      old_tileset_224: -8627444098323190453
+      old_tileset_225: 1237564021620479295
+      old_tileset_226: 3404583692545384640
+      old_tileset_227: 2018769661920150892
+      old_tileset_228: -6059494551486915586
+      old_tileset_229: 6148297703273082413
+      old_tileset_23: -6149888622868890530
+      old_tileset_230: 5410127878045608693
+      old_tileset_231: -1788519783490913146
+      old_tileset_232: 5721810621996923024
+      old_tileset_233: 5315565316711548104
+      old_tileset_234: -3854692385292930806
+      old_tileset_235: 3810067246574990438
+      old_tileset_236: 8793885391957982164
+      old_tileset_237: -868680444542594547
+      old_tileset_238: 4086128267880021530
+      old_tileset_239: 7403797737707771976
+      old_tileset_24: 3404850967213260576
+      old_tileset_240: -7727312261026080758
+      old_tileset_241: 1429608936512722044
+      old_tileset_242: -2057613782638557294
+      old_tileset_243: -7168123503235858222
+      old_tileset_244: -2568016700000158742
+      old_tileset_245: -7729190184260285852
+      old_tileset_246: -5590404495770410901
+      old_tileset_247: -8303885618849100788
+      old_tileset_248: -803887549109588679
+      old_tileset_249: -6725425260886788603
+      old_tileset_25: 6780382204933972064
+      old_tileset_250: -2855762121362116553
+      old_tileset_251: 569444209144278433
+      old_tileset_252: 8738458656909958874
+      old_tileset_253: 6618805937015104876
+      old_tileset_254: 7913221198582702665
+      old_tileset_255: 2499540275366771798
+      old_tileset_256: 7841918865164275143
+      old_tileset_257: 4424749773599242438
+      old_tileset_258: 7724974316027549791
+      old_tileset_259: 9016034314508994337
+      old_tileset_26: 3614957477510608737
+      old_tileset_260: -4444149660050101119
+      old_tileset_261: 7777810265280139979
+      old_tileset_262: 2650589197189103063
+      old_tileset_263: 410607462824613425
+      old_tileset_264: -4661653132469684914
+      old_tileset_265: -687870088451376737
+      old_tileset_266: -2051299963658222308
+      old_tileset_267: 867114979640834417
+      old_tileset_268: 2754722969436210708
+      old_tileset_269: 7401977769214806304
+      old_tileset_27: -1889635580708374130
+      old_tileset_270: -5285861644497627362
+      old_tileset_271: 3735228735350020317
+      old_tileset_272: 6331538719854687563
+      old_tileset_273: 147552465084462694
+      old_tileset_274: -3160030752186688692
+      old_tileset_275: 4583974431315708087
+      old_tileset_276: 7505310954016228532
+      old_tileset_277: 1787900152924520007
+      old_tileset_278: -3110749663283090519
+      old_tileset_279: -8734301516958045268
+      old_tileset_28: -275217204776398342
+      old_tileset_280: -6887438510332520072
+      old_tileset_281: 8755001446596813783
+      old_tileset_282: 1036683474725005160
+      old_tileset_283: 7690325606149282005
+      old_tileset_284: 1049162390603593648
+      old_tileset_285: 1955352446616364033
+      old_tileset_286: -3275412951740213923
+      old_tileset_287: -3707216273105233902
+      old_tileset_288: -1933202867783894907
+      old_tileset_289: 4269089428416428738
+      old_tileset_29: -26590296540933691
+      old_tileset_290: 2402858261955230635
+      old_tileset_291: -8726484377950028146
+      old_tileset_292: -7600301052525576456
+      old_tileset_293: -6468933421993482499
+      old_tileset_294: 8376656709780245002
+      old_tileset_295: 7844916490111545280
+      old_tileset_296: -7383728335854010634
+      old_tileset_297: -5393514094431034816
+      old_tileset_298: 3407113214665039828
+      old_tileset_299: 2733104342160419090
+      old_tileset_3: -5784882668285579151
+      old_tileset_30: 4578674980495820915
+      old_tileset_31: 109784884090967511
+      old_tileset_32: 1793213744441986603
+      old_tileset_33: 6557086300556359957
+      old_tileset_34: 2104196141061334378
+      old_tileset_35: 8905456067546967585
+      old_tileset_36: -2860363157464485155
+      old_tileset_37: 7417067587627146588
+      old_tileset_38: 8116772805045559557
+      old_tileset_39: -3349397408065865184
+      old_tileset_4: 7368528876979965695
+      old_tileset_40: -3328322476980325390
+      old_tileset_41: 1447782942078168565
+      old_tileset_42: -4374994206871859350
+      old_tileset_43: -5640396599361311646
+      old_tileset_44: -3275332573858882638
+      old_tileset_45: -7520930262142494765
+      old_tileset_46: -2626856608913054631
+      old_tileset_47: -8135451047670733170
+      old_tileset_48: 7989802353292180141
+      old_tileset_49: -8649352302517131117
+      old_tileset_5: -4734941571748348038
+      old_tileset_50: -8239047902127579977
+      old_tileset_51: 2163656471572287388
+      old_tileset_52: 7624129536926543094
+      old_tileset_53: -7344899334628605365
+      old_tileset_54: 6524267044357969069
+      old_tileset_55: 9027802604638684651
+      old_tileset_56: 5512496115273380733
+      old_tileset_57: -42496031898061571
+      old_tileset_58: 7210924673805705049
+      old_tileset_59: -7647823586872278443
+      old_tileset_6: -7306128353757866697
+      old_tileset_60: 7144884161426714066
+      old_tileset_61: -6130712325225757434
+      old_tileset_62: 7259534751159067464
+      old_tileset_63: 2264406047510326336
+      old_tileset_64: 8506835926660970653
+      old_tileset_65: -5951754635783945145
+      old_tileset_66: 1264938515621032868
+      old_tileset_67: 485976319089289961
+      old_tileset_68: -1296167639111595837
+      old_tileset_69: -6996795083173671759
+      old_tileset_7: -2319567590091941514
+      old_tileset_70: -3122207662137815028
+      old_tileset_71: -7956970623095055921
+      old_tileset_72: -8047682573786722854
+      old_tileset_73: -4193190955338543099
+      old_tileset_74: 4298965765849695577
+      old_tileset_75: 2307150792390672241
+      old_tileset_76: 7514875637501623505
+      old_tileset_77: -8032761416728581767
+      old_tileset_78: -3817630352614298493
+      old_tileset_79: -4600899675176697377
+      old_tileset_8: 9191048175819819450
+      old_tileset_80: -4753205159030987248
+      old_tileset_81: -6719484374859500223
+      old_tileset_82: -8813125777789830967
+      old_tileset_83: 5013757009342402615
+      old_tileset_84: 4644157040075372810
+      old_tileset_85: -4224885118906057237
+      old_tileset_86: 8831654396095819573
+      old_tileset_87: 5049082397450407971
+      old_tileset_88: 2714344934266671842
+      old_tileset_89: -2331691148065806559
+      old_tileset_9: 1913800499030620533
+      old_tileset_90: 2478672363679961022
+      old_tileset_91: 6049113113382180508
+      old_tileset_92: -8700468884816611253
+      old_tileset_93: 5966374700605037402
+      old_tileset_94: -6346872556131918177
+      old_tileset_95: 7843319776565071563
+      old_tileset_96: 2936279755986131200
+      old_tileset_97: -6293144225292278190
+      old_tileset_98: -8900050841324346504
+      old_tileset_99: 1500753951655603791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
